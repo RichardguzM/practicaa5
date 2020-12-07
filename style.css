@@ -1,0 +1,69 @@
+body {
+    background-color: #d3dbde;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: #333333;
+}
+
+p.parrafo1 {
+    background-color: #b6c2c9;
+}
+
+h2.datos1 {
+    background-color: #7b929d;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #415058;
+}
+
+h2.datos2 {
+    background-color: #7b929d;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #415058;
+}
+
+h2.datos3 {
+    background-color: #7b929d;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #415058;
+}
+
+p.parrafo2 {
+    background-color: #b6c2c9;
+}
+
+p.parrafo3 {
+    background-color: #b6c2c9;
+}
+
+p.parrafo4 {
+    background-color: #b6c2c9;
+}
+
+h3.idiomas {
+    background-color: #98aab3;
+    font-weight: bold;
+    color: #415058;
+}
+
+p.autor {
+    background-color: #ffffff;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+}
+
+span.negrita1 {
+    color: #126f9e;
+}
+
+span.negrita2 {
+    color: #0088cc;
+    font-weight: bold;
+
+}
